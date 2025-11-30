@@ -29,8 +29,8 @@ This tool ignores the file extension and looks at the **Magic Numbers**—the un
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/file-type-id.git
-    cd file-type-id
+    git clone https://github.com/CyberShuriken/file-type-identification-tool.git
+    cd file-type-identification-tool
     ```
 
 2.  **Install dependencies** (optional, for colored output):
@@ -72,3 +72,4 @@ Unknown Type              | ???        | txt        | test_files\random.txt
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
